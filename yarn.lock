@@ -1077,6 +1077,13 @@
   dependencies:
     "p-locate" "^5.0.0"
 
+"lockfile@^1.0.4":
+  "integrity" "sha512-cvbTwETRfsFh4nHsL1eGWapU1XFi5Ot9E85sWAwia7Y7EgB7vfqcZhTKZ+l7hCGxSPoushMv5GKhT5PdLv03WA=="
+  "resolved" "https://registry.npmjs.org/lockfile/-/lockfile-1.0.4.tgz"
+  "version" "1.0.4"
+  dependencies:
+    "signal-exit" "^3.0.2"
+
 "lodash.merge@^4.6.2":
   "integrity" "sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ=="
   "resolved" "https://registry.npmjs.org/lodash.merge/-/lodash.merge-4.6.2.tgz"
@@ -1476,6 +1483,11 @@
     "call-bind" "^1.0.0"
     "get-intrinsic" "^1.0.2"
     "object-inspect" "^1.9.0"
+
+"signal-exit@^3.0.2":
+  "integrity" "sha512-wnD2ZE+l+SPC/uoS0vXeE9L1+0wuaMqKlfz9AMUo38JsyLSBWSFcHR1Rri62LZc12vLr1gb3jl7iwQhgwpAbGQ=="
+  "resolved" "https://registry.npmjs.org/signal-exit/-/signal-exit-3.0.7.tgz"
+  "version" "3.0.7"
 
 "slash@^3.0.0":
   "integrity" "sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q=="
