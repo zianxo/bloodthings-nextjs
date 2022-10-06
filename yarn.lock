@@ -297,6 +297,11 @@
     "ansi-styles" "^4.1.0"
     "supports-color" "^7.1.0"
 
+"ci@^2.2.0":
+  "integrity" "sha512-lBkEN6XclyW0jnprtFQ+dsbP+9zwmo37Z1cV38h4FSDgI2QzFqwknJnVSvRxK9UXkPC4ZcVOVFyCVrNylTX52Q=="
+  "resolved" "https://registry.npmjs.org/ci/-/ci-2.2.0.tgz"
+  "version" "2.2.0"
+
 "color-convert@^2.0.1":
   "integrity" "sha512-RRECPsj7iu/xb5oKYcsFHSppFNnsj/52OVTRKb4zP5onXwVF3zVmmToNcOfGC+CRDpfK/U584fMg38ZHCaElKQ=="
   "resolved" "https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz"
